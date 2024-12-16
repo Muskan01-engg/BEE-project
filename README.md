@@ -2,8 +2,7 @@
 This website serves as a comprehensive platform for exploring real estate properties 
 and booking hotel accommodations. Designed with a user-friendly interface, it allows 
 users to search for properties and hotels based on location, price range, and amenities.
-The site also includes features for property listings, detailed descriptions, images, user reviews,
-and secure booking functionality, catering to both buyers and travelers.
+
 
 # Features
  Property listings 
